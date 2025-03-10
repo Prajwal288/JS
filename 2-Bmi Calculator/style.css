@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+}
+
+body{
+    text-align : center;
+     padding: 5%; 
+     zoom: 200%;
+}
+
+#button{
+    width: 100px;
+    height: 30px;
+    border: solid black 2px;
+    display: inline;
+    
+}  
+
+#results{
+    font-size: larger;
+    font-style: italic;
+}
